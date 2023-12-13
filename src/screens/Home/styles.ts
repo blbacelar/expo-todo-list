@@ -40,7 +40,7 @@ export const styles = StyleSheet.create({
     zIndex: 10 // Make sure the form is layered above other components
   },
   emptyList: {
-    color: '#fff',
+    color: theme.gray_100,
     textAlign: 'center'
   }
 })
